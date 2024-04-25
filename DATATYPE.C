@@ -8,7 +8,7 @@ main()
 
 	int c = 5 + 10 ;
 	printf("your addition is :",c);
-
+   
 	getch();
 
 }
